@@ -1,0 +1,18 @@
+p {
+    font-size: 30px;
+}
+h1{
+ font-size: 35px;
+ text-align: center;
+}
+
+h2 {
+    font-size: 33px;
+}
+#bandeira {
+    width: 1250px;
+    height: 250px;
+    margin: 40px;
+    padding: 0px;
+    border: 10px solid;
+}
